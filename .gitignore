@@ -1,0 +1,14 @@
+# Binaries (compiled executables)
+huffman
+huffman.exe
+
+# VSCode settings
+.vscode/
+
+# Encoded/decoded outputs (auto-generated)
+encoded.txt
+decoded.txt
+
+# System-specific metadata (especially on Windows/macOS)
+.DS_Store
+Thumbs.db
